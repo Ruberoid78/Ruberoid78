@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruberoid78
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP 8
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me ruberoid78@mail.ru
 
